@@ -1,0 +1,28 @@
+/* styles.css */
+
+body {
+    font-family: 'Futura', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.container {
+    text-align: center;
+}
+
+.toggles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#write-button {
+    font-size: 1.2em;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
